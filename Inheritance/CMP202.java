@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class CMP202 {
     int age;
     float height;
